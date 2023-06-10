@@ -68,6 +68,15 @@
     <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
     <h3 align="left">Beginner Level Expertise</h3>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+    &nbsp;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" style="background-color: white; border-radius: 0.25rem;" alt="linux" width="40" height="40"/></a>
     &nbsp;
@@ -83,26 +92,21 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="45" height="40"/></a>
     <h3 align="left">Syntax Level Knowledge Only</h3>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="40"/></a>
+    &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>
     &nbsp;
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="40"/></a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
-    &nbsp;
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
     &nbsp;
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-    &nbsp;
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
     <h3 align="left">Want to Explore</h3>
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" style="background-color: white; border-radius: 0.25rem;" alt="cassandra" width="65" height="40"/></a>
