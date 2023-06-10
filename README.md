@@ -22,11 +22,12 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+    <a href="https://instagram.com/coderamanshukla" target="blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="coderamanshukla" height="40" width="40" /></a>
+    &nbsp;
     <a href="https://linkedin.com/in/professionalaman" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="professionalaman" height="40" width="40" /></a>
     &nbsp;
-    <a href="https://instagram.com/coderamanshukla" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="coderamanshukla" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools</h2>
@@ -37,6 +38,16 @@
     &nbsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+    &nbsp;
     <h3 align="left">Intermediate Level Expertise</h3>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -92,6 +103,9 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="45" height="40"/></a>
     <h3 align="left">Syntax Level Knowledge Only</h3>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
+    &nbsp;
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/></a>
     &nbsp;
@@ -108,23 +122,20 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
     &nbsp;
     <h3 align="left">Want to Explore</h3>
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" style="background-color: white; border-radius: 0.25rem;" alt="cassandra" width="65" height="40"/></a>
-    &nbsp;
-    <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
-    &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
-    &nbsp;
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
-    &nbsp;
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
     &nbsp;
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+    &nbsp;
+    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" style="background-color: white; border-radius: 0.25rem;" alt="cassandra" width="65" height="40"/></a>
+    &nbsp;
+    <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
     &nbsp;
 </p>
 
