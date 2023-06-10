@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **ReactJS, Tailwind CSS, HTML, CSS, SASS**
 
-- 📫 How to reach me **contact@coderaman.tk**
+- 📫 Connect with me on **[Instagram](https://instagram.com/coderamanshukla)**
 
 - ⚡ Fun fact **Sarcasm makes life lively.**
 
