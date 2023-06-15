@@ -29,7 +29,7 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="professionalaman" height="40" width="40" /></a>
     &nbsp;
 </p>
-<h2 align="left">Github Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&theme=tokyonight&layout=compact"
