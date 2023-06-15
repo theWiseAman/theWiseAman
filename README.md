@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Sarcasm makes life lively.**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
     <a href="https://instagram.com/coderamanshukla" target="blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="coderamanshukla" height="40" width="40" /></a>
@@ -29,6 +29,11 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="professionalaman" height="40" width="40" /></a>
     &nbsp;
 </p>
+<h2 align="left">Github Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thewiseaman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="thewiseaman" /></p>
+
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
@@ -138,7 +143,3 @@
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
     &nbsp;
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&layout=compact" alt="thewiseaman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en" alt="thewiseaman" /></p>
