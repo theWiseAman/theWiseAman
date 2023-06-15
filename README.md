@@ -30,9 +30,29 @@
     &nbsp;
 </p>
 <h2 align="left">Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thewiseaman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en&theme=tokyonight&rank_icon=github" alt="thewiseaman" /></p>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&theme=tokyonight&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thewiseaman&show_icons=true&locale=en&layout=compact" />
+</picture>
+<picture>
+&npsp;
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en&theme=tokyonight&rank_icon=github"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en&rank_icon=github"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=thewiseaman&show_icons=true&locale=en&rank_icon=github" />
+</picture>
 
 
 <h2 align="left">Languages and Tools</h2>
